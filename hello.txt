@@ -1,0 +1,3 @@
+Hello Git FPT Software Training Assignment
+Student: Nguyen Phuc Minh
+Repo: nguyenphucminh286-collab/Assignment_2
